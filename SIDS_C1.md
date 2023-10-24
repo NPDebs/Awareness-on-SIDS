@@ -13,6 +13,13 @@ Port Harcourt, River State's capital city, is the largest city in the state, wit
 
 Although the exact causes of SIDS are not fully understood, some of the known risk factors include maternal smoking during pregnancy, prone sleeping position, co-sleeping, and overheating. In Nigeria, studies have shown that the incidence of SIDS is higher in urban areas than in rural areas.
 
+## 1.2 Problem Statement:
+The problem that this study addressed is the high incidence of SIDS, as well as the limited research on the condition in Nigeria. Despite the efforts of various health organisations to educate the public on SIDS, the level of awareness remains at an all-time low, while the incidence rises at an alarming rate. Many cases of SIDS are still unreported.
+
+It is unspeakably difficult to develop effective preventive interventions when there is so little research on the level of awareness of mothers on SIDS in Nigeria, particularly in Port Harcourt.
+
+Furthermore, there are cultural beliefs and practices in Oroworukwo community that may influence the awareness of mothers on SIDS, and it is essential to understand these factors to develop interventions that are culturally appropriate. In addition, a lack of access to vital health information and resources may also contribute to the low awareness of mothers on SIDS, and it is important to identify strategies to improve access to health information and resources.
+
 
 ## REFERENCES
 Corwin, M. (2022, July 26). Patient education: Sudden infant death syndrome (SIDS) (Beyond the basics). In M.M. Sanghamitra (Ed.). UpToDate., Retrieved May 12, 2023, from https://www.uptodate.com/contents/sudden-infant-death-syndrome-sids-beyond-the-basics/
